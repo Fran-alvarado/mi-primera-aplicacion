@@ -3,3 +3,10 @@
     color: #fff;
   }
 
+p {
+  color: green;
+}
+
+h2,h3 {
+  color: skyblue;
+}
